@@ -1,0 +1,18 @@
+#rise-header {
+    margin: 10px;
+    left: 10%;
+}
+
+#rise-footer {
+    margin: 10px;
+    right: 10%;
+}
+
+#rise-backimage {
+    opacity: 0.70;
+}
+
+/* TODO: maybe we need to port this to main.css?  */
+.reveal img {
+    max-width: 100%;
+}
